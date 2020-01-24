@@ -1,0 +1,2 @@
+export const GET_GIF_ACTION = "GET_GIF_ACTION";
+export const GET_GIF_NOT_FOUND = "GET_GIF_NOT_FOUND";

@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+    border: 2px solid black;
+
+   
+    .list{
+        display: flex;
+        flex-wrap: wrap;
+        border: 2px solid black;
+        .list__contents{
+            flex: 1;
+            border: 2px solid red;
+        }
+    }
+}
+
